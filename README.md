@@ -1,5 +1,5 @@
 # 极简主义工程师宣言
-:globe_with_meridians:
+:globe_with_meridians: 中文翻译
 >  Manifesto for  Minimalist Software Engineers
 
 ## 〇
