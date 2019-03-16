@@ -8,7 +8,7 @@
   - *Fight for Pareto*'s law, look for the 20% of effort that will give you the 80% of results.
 - 优先级
   - *Prioritize*, minimalism isn't about not doing things but about focusing first in the important.
-- 完美主意是好东西的敌人
+- 完美主义是好东西的敌人
   - *Perfect is enemy of good*, first do it, then do it right, then do it better.
 - 扼杀在摇篮中
   - *Kill the baby*, don't be afraid of starting all over again. Fail soon, learn fast.
